@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-07-14T09:00:34.158593",
+            "datePublished": "2026-10-16T15:12:43.274708",
             "hasPart": [
                 {
                     "@id": "WGS-PE-variant-calling-in-haploid-system.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/haploid-variant-calling-wgs-pe",
-            "version": "0.3"
+            "version": "0.4"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.44"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
